@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator (Java Swing)
+# 💪 BMI Calculator (Java Swing)
 
 A simple **Body Mass Index (BMI) Calculator** built using **Java Swing**.  
 This desktop application allows users to calculate BMI based on height and weight and instantly shows the corresponding BMI category with visual feedback.
@@ -35,40 +35,12 @@ This desktop application allows users to calculate BMI based on height and weigh
 
 - Java (JDK 8+)
 - Java Swing
-- AWT
 
 ---
 
-## ▶️ How to Run
+## 📸 Screenshot
 
-### Prerequisites
-- Java JDK installed  
-  ```bash
-  java -version
-  ```
-
-### Compile
-```bash
-javac Main.java
-```
-
-### Run
-```bash
-java bmicalc.Main
-```
-
-Ensure the folder structure matches the package name.
-
----
-
-## 📂 Project Structure
-
-```
-BMI-Calculator/
- ├── bmicalc/
- │    └── Main.java
- └── README.md
-```
+<img width="731" height="493" alt="image" src="https://github.com/user-attachments/assets/b4a43359-ef59-4c80-a58f-86c623f06b48" />
 
 ---
 
@@ -95,6 +67,6 @@ This project is intended for educational and academic purposes.
 
 ## 🙌 Author
 
-**Emtiaz Ahmed**  
+**Emtiaz Ahmed Emon**  
 Department of Information & Communication Engineering  
 Noakhali Science and Technology University
