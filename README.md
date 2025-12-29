@@ -50,22 +50,13 @@ BMI = Weight (kg) / Height² (m²)
 
 ---
 
-## 🎯 Future Enhancements
-
-- Unit conversion (cm ↔ m)
-- Save BMI history
-- Dark mode UI
-- Android version
-
----
-
 ## 📄 License
 
 This project is intended for educational and academic purposes.
 
 ---
 
-## 🙌 Author
+## 👤 Author
 
 **Emtiaz Ahmed Emon**  
 Department of Information & Communication Engineering  
